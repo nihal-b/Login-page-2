@@ -46,7 +46,7 @@
     box-shadow: 0 3px 6px -6px black;
     background-image: none;
     position: relative;
-    right: 15px;
+    left:10px;
 
 }
 .fp{
@@ -76,10 +76,14 @@
 }
 .usr{
     background-image: none;
+    position: relative;
+    right:200px;
    
 }
 .lck{
     background-image: none;
+    position: relative;
+    right:200px;
 }
 .fa {
     padding: 10px;
